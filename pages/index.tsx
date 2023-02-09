@@ -1,7 +1,8 @@
+import { PageCompoundInterestCalculator } from "@/src/pages/PageCompoundInterestCalculator";
 import React from "react";
 
 const index = () => {
-  return <div>index</div>;
+  return <PageCompoundInterestCalculator />;
 };
 
 export default index;
