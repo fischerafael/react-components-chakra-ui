@@ -43,7 +43,7 @@ class Rank {
   }
 }
 
-// test
+//
 
 export const PageWordCount = () => {
   const [text, setText] = React.useState("");
